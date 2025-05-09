@@ -22,3 +22,14 @@
   - Instagram : [yas.ako6](https://www.instagram.com/yas.ako6/)
 
 ![yasako's stats](https://github-readme-stats.vercel.app/api?username=yas-ako&hide=stars,contribs&count_private=true&show_icons=true)
+
+### プロジェクト
+
+- **Vivliostyleのレポート用テンプレート**
+  - [yas-ako/my-vivliostyle-report-template](https://github.com/yas-ako/my-vivliostyle-report-template)
+  - Vivliostyleでレポートを執筆するための自分用のテンプレート
+    - 機能
+      - 図・表のカウンタ、参照
+      - 数式番号
+      - 囲み枠
+      - 脚注
