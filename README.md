@@ -25,7 +25,7 @@
 
 ### プロジェクト
 
-- **[Vivliostyleのレポート用テンプレート](https://github.com/yas-ako/my-vivliostyle-report-template)
+- **[Vivliostyleのレポート用テンプレート](https://github.com/yas-ako/my-vivliostyle-report-template)**
   - Vivliostyleでレポートを執筆するための自分用のテンプレート
     - 機能
       - 図・表のカウンタ、参照
