@@ -19,7 +19,7 @@
 - リンク
   - GitHub : [yas-ako](https://github.com/yas-ako/)
   - X : [@yas_ako_6](https://x.com/yas_ako_6)
-  - Instagram : [yas.ako6](https://www.instagram.com/yas.ako6/)
+  <!-- - Instagram : [yas.ako6](https://www.instagram.com/yas.ako6/) -->
 
 ![yasako's stats](https://github-readme-stats.vercel.app/api?username=yas-ako&hide=stars,contribs&count_private=true&show_icons=true)
 
