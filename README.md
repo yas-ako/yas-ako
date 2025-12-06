@@ -1,7 +1,7 @@
 ## yasako
 
 - 名前 : yasako
-- 年齢 : 18
+- 年齢 : 19
 - 誕生日 : 2006/11/07
 - 趣味
   - ピアノ
@@ -21,7 +21,7 @@
   - X : [@yas_ako_6](https://x.com/yas_ako_6)
   <!-- - Instagram : [yas.ako6](https://www.instagram.com/yas.ako6/) -->
 
-![yasako's stats](https://github-readme-stats.vercel.app/api?username=yas-ako&hide=stars,contribs&count_private=true&show_icons=true)
+<!-- ![yasako's stats](https://github-readme-stats.vercel.app/api?username=yas-ako&hide=stars,contribs&count_private=true&show_icons=true) -->
 
 ### プロジェクト
 
